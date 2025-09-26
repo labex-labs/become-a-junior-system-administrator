@@ -8,20 +8,25 @@
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/become-a-junior-system-administrator)
 
-Simule os primeiros cinco dias de tarefas que um engenheiro júnior pode encontrar em sua função. Esta experiência prática abrange tarefas essenciais de administração de sistemas, desde a navegação do sistema até o gerenciamento de usuários, que normalmente poderiam ser concluídas em apenas um dia de treinamento intensivo.
+Simule os primeiros dias de tarefas que um engenheiro júnior pode encontrar em sua função. Esta experiência prática abrange tarefas essenciais de administração de sistemas, desde a navegação do sistema até o gerenciamento de usuários, que normalmente podem ser concluídas em apenas um dia de treinamento intensivo.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
 ## Exercícios
 
-|   Índice | Nome                                 | Dificuldade   | Prática                                                                                                               |
-|----------|--------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 🆓 Dia 1: Visão Geral do Terreno  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-1-the-lay-of-the-land-596200'>Iniciar Desafio</a>    |
-|        2 | 🎯 🆓 Dia 2: O Arquiteto Digital     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-2-the-digital-architect-596201'>Iniciar Desafio</a>  |
-|        3 | 🎯 🆓 Dia 3: O Investigador de Logs  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-3-the-log-investigator-596202'>Iniciar Desafio</a>   |
-|        4 | 🎯 🆓 Dia 4: O Guardião da Fortaleza | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-4-the-fortress-guardian-596203'>Iniciar Desafio</a>  |
-|        5 | 🎯 🆓 Dia 5: O Guardião das Chaves   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>Iniciar Desafio</a> |
+|   Índice | Nome                                   | Dificuldade   | Prática                                                                                                               |
+|----------|----------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 🆓 Dia 1: Visão Geral do Terreno    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-1-the-lay-of-the-land-596200'>Iniciar Desafio</a>    |
+|       02 | 🎯 🆓 Dia 2: O Arquiteto Digital       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-2-the-digital-architect-596201'>Iniciar Desafio</a>  |
+|       03 | 🎯 🆓 Dia 3: O Investigador de Logs    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-3-the-log-investigator-596202'>Iniciar Desafio</a>   |
+|       04 | 🎯 🆓 Dia 4: O Guardião da Fortaleza   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-4-the-fortress-guardian-596203'>Iniciar Desafio</a>  |
+|       05 | 🎯 🆓 Dia 5: O Guardião das Chaves     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>Iniciar Desafio</a> |
+|       06 | 🎯  Dia 6: O Supervisor de Processos   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-6-the-process-overseer-596618'>Iniciar Desafio</a>        |
+|       07 | 🎯  Dia 7: O Navegador de Rede         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-7-the-network-navigator-596619'>Iniciar Desafio</a>       |
+|       08 | 🎯  Dia 8: O Administrador de Software | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-8-the-software-steward-596620'>Iniciar Desafio</a>        |
+|       09 | 🎯  Dia 9: O Sentinela de Backup       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-9-the-backup-sentinel-596621'>Iniciar Desafio</a>         |
+|       10 | 🎯  Dia 10: O Artesão de Scripts       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-10-the-script-artisan-596613'>Iniciar Desafio</a>         |
 
 ## Ambiente
 

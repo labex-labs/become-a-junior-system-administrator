@@ -8,7 +8,7 @@
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/become-a-junior-system-administrator)
 
-주니어 엔지니어가 직무에서 마주칠 수 있는 첫 5 일간의 업무를 시뮬레이션합니다. 이 실습 경험은 시스템 탐색부터 사용자 관리까지 필수적인 시스템 관리 작업을 다루며, 일반적으로 집중적인 하루 교육으로 완료될 수 있는 내용입니다.
+주니어 엔지니어가 직무에서 마주칠 수 있는 초기 업무를 시뮬레이션합니다. 시스템 탐색부터 사용자 관리까지 필수적인 시스템 관리 작업을 다루며, 이는 일반적으로 집중적인 하루 교육으로 완료될 수 있습니다.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
@@ -17,11 +17,16 @@
 
 |   인덱스 | 이름                                                     | 난이도   | 연습                                                                                                            |
 |----------|----------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯 🆓 1 일차: 환경 파악                                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-1-the-lay-of-the-land-596200'>도전 시작</a>    |
-|        2 | 🎯 🆓 2 일차: 디지털 아키텍트                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-2-the-digital-architect-596201'>도전 시작</a>  |
-|        3 | 🎯 🆓 3 일차: 로그 조사관                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-3-the-log-investigator-596202'>도전 시작</a>   |
-|        4 | 🎯 🆓 4 일차: 요새 수호자                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-4-the-fortress-guardian-596203'>도전 시작</a>  |
-|        5 | 🎯 🆓 5 일차: 키퍼 오브 더 키스 (The Keeper of the Keys) | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>도전 시작</a> |
+|       01 | 🎯 🆓 1 일차: 환경 파악                                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-1-the-lay-of-the-land-596200'>도전 시작</a>    |
+|       02 | 🎯 🆓 2 일차: 디지털 아키텍트                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-2-the-digital-architect-596201'>도전 시작</a>  |
+|       03 | 🎯 🆓 3 일차: 로그 조사관                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-3-the-log-investigator-596202'>도전 시작</a>   |
+|       04 | 🎯 🆓 4 일차: 요새 수호자                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-4-the-fortress-guardian-596203'>도전 시작</a>  |
+|       05 | 🎯 🆓 5 일차: 키퍼 오브 더 키스 (The Keeper of the Keys) | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>도전 시작</a> |
+|       06 | 🎯  6 일차: 프로세스 감독관                              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-day-6-the-process-overseer-596618'>도전 시작</a>        |
+|       07 | 🎯  7 일차: 네트워크 네비게이터                          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-day-7-the-network-navigator-596619'>도전 시작</a>       |
+|       08 | 🎯  8 일차: 소프트웨어 관리자                            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-day-8-the-software-steward-596620'>도전 시작</a>        |
+|       09 | 🎯  9 일차: 백업 센티넬                                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-day-9-the-backup-sentinel-596621'>도전 시작</a>         |
+|       10 | 🎯  10 일차: 스크립트 장인                               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-day-10-the-script-artisan-596613'>도전 시작</a>         |
 
 ## 환경
 

@@ -8,7 +8,7 @@
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/become-a-junior-system-administrator)
 
-模拟初级工程师在其岗位上可能遇到的前五天任务。这种实践经验涵盖了从系统导航到用户管理等关键的系统管理任务，这些任务通常可以在一天密集的培训中完成。
+模拟初级工程师在其岗位上可能遇到的初期任务。这种实践经验涵盖了从系统导航到用户管理等关键的系统管理任务，通常可以在一天密集的培训中完成。
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
@@ -17,11 +17,16 @@
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                           |
 |--------|---------------------------|--------|----------------------------------------------------------------------------------------------------------------|
-|      1 | 🎯 🆓 第 1 天：初步了解   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-1-the-lay-of-the-land-596200'>开始挑战</a>    |
-|      2 | 🎯 🆓 第 2 天：数字架构师 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-2-the-digital-architect-596201'>开始挑战</a>  |
-|      3 | 🎯 🆓 第 3 天：日志调查员 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-3-the-log-investigator-596202'>开始挑战</a>   |
-|      4 | 🎯 🆓 第 4 天：堡垒守护者 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-4-the-fortress-guardian-596203'>开始挑战</a>  |
-|      5 | 🎯 🆓 第 5 天：密钥守护者 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>开始挑战</a> |
+|     01 | 🎯 🆓 第 1 天：初步了解   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-1-the-lay-of-the-land-596200'>开始挑战</a>    |
+|     02 | 🎯 🆓 第 2 天：数字架构师 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-2-the-digital-architect-596201'>开始挑战</a>  |
+|     03 | 🎯 🆓 第 3 天：日志调查员 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-3-the-log-investigator-596202'>开始挑战</a>   |
+|     04 | 🎯 🆓 第 4 天：堡垒守护者 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-4-the-fortress-guardian-596203'>开始挑战</a>  |
+|     05 | 🎯 🆓 第 5 天：密钥守护者 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>开始挑战</a> |
+|     06 | 🎯  第 6 天：进程监控者   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-day-6-the-process-overseer-596618'>开始挑战</a>        |
+|     07 | 🎯  第 7 天：网络导航员   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-day-7-the-network-navigator-596619'>开始挑战</a>       |
+|     08 | 🎯  第 8 天：软件管家     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-day-8-the-software-steward-596620'>开始挑战</a>        |
+|     09 | 🎯  第 9 天：备份哨兵     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-day-9-the-backup-sentinel-596621'>开始挑战</a>         |
+|     10 | 🎯  第 10 天：脚本工匠    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-day-10-the-script-artisan-596613'>开始挑战</a>         |
 
 ## 学习环境
 

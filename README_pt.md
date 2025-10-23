@@ -15,22 +15,22 @@ Simule os primeiros dias de tarefas que um engenheiro júnior pode encontrar em 
 
 ## Exercícios
 
-|   Índice | Nome                                   | Dificuldade   | Prática                                                                                                               |
-|----------|----------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 🆓 Dia 1: Visão Geral do Terreno    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-1-the-lay-of-the-land-596200'>Iniciar Desafio</a>    |
-|       02 | 🎯 🆓 Dia 2: O Arquiteto Digital       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-2-the-digital-architect-596201'>Iniciar Desafio</a>  |
-|       03 | 🎯 🆓 Dia 3: O Investigador de Logs    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-3-the-log-investigator-596202'>Iniciar Desafio</a>   |
-|       04 | 🎯 🆓 Dia 4: O Guardião da Fortaleza   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-4-the-fortress-guardian-596203'>Iniciar Desafio</a>  |
-|       05 | 🎯 🆓 Dia 5: O Guardião das Chaves     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-day-5-the-keeper-of-the-keys-596204'>Iniciar Desafio</a> |
-|       06 | 🎯  Dia 6: O Supervisor de Processos   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-6-the-process-overseer-596618'>Iniciar Desafio</a>        |
-|       07 | 🎯  Dia 7: O Navegador de Rede         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-7-the-network-navigator-596619'>Iniciar Desafio</a>       |
-|       08 | 🎯  Dia 8: O Administrador de Software | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-8-the-software-steward-596620'>Iniciar Desafio</a>        |
-|       09 | 🎯  Dia 9: O Sentinela de Backup       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-9-the-backup-sentinel-596621'>Iniciar Desafio</a>         |
-|       10 | 🎯  Dia 10: O Artesão de Scripts       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-10-the-script-artisan-596613'>Iniciar Desafio</a>         |
+|   Índice | Nome                                   | Dificuldade   | Prática                                                                                                                                                      |
+|----------|----------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 🆓 Dia 1: Visão Geral do Terreno    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-1-the-lay-of-the-land-596200?course=become-a-junior-system-administrator'>Iniciar Desafio</a>    |
+|       02 | 🎯 🆓 Dia 2: O Arquiteto Digital       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-2-the-digital-architect-596201?course=become-a-junior-system-administrator'>Iniciar Desafio</a>  |
+|       03 | 🎯 🆓 Dia 3: O Investigador de Logs    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-3-the-log-investigator-596202?course=become-a-junior-system-administrator'>Iniciar Desafio</a>   |
+|       04 | 🎯 🆓 Dia 4: O Guardião da Fortaleza   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-4-the-fortress-guardian-596203?course=become-a-junior-system-administrator'>Iniciar Desafio</a>  |
+|       05 | 🎯 🆓 Dia 5: O Guardião das Chaves     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-5-the-keeper-of-the-keys-596204?course=become-a-junior-system-administrator'>Iniciar Desafio</a> |
+|       06 | 🎯  Dia 6: O Supervisor de Processos   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-6-the-process-overseer-596618?course=become-a-junior-system-administrator'>Iniciar Desafio</a>   |
+|       07 | 🎯  Dia 7: O Navegador de Rede         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-7-the-network-navigator-596619?course=become-a-junior-system-administrator'>Iniciar Desafio</a>  |
+|       08 | 🎯  Dia 8: O Administrador de Software | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-8-the-software-steward-596620?course=become-a-junior-system-administrator'>Iniciar Desafio</a>   |
+|       09 | 🎯  Dia 9: O Sentinela de Backup       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-9-the-backup-sentinel-596621?course=become-a-junior-system-administrator'>Iniciar Desafio</a>    |
+|       10 | 🎯  Dia 10: O Artesão de Scripts       | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/linux-day-10-the-script-artisan-596613?course=become-a-junior-system-administrator'>Iniciar Desafio</a>    |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
